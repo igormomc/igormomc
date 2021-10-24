@@ -1,13 +1,13 @@
-# Hi, I'm Luka 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lukamo1996.visitor-badge)
+# Hi, I'm Igor 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lukamo1996.visitor-badge)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luka-momcilovic-835b37194/)
 
-Hi! My name is Luka Momcilovic and I'm [Computer Science](https://www.uio.no/studier/program/informatikk-programmering/) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I received a Bachelor's Degree in [Medical Laboratory Science](https://www.oslomet.no/studier/hv/bioingenioer) at Oslomet - Metropolitan University.
+Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/program/informatikk-programmering/) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
 
-- ⛏ I’m currently working on a webservice analogous to examine.com, built from scratch, trying to automate categorization of clinical trials and make software-based analysis easier
-- 💡 I’m currently learning PostgreSQL
-- 🎨 Hobbies: 🎾 & 🏋️
-### Automate everything😎
+- ⛏ I’m currently working in an IT/Real-estate  firm. 
+- 💡 I’m currently learning PostgreSQL and trying to be better at solving codeing problems on codewars and kattis
+- 🎨 Hobbies: 🎾 & 🏋️ & 🍔 
+### Automate stuff = HappyLife 😎
 
 ---
 
@@ -38,10 +38,7 @@ Bash         14 mins         ▒░░░░░░░░░░░░░░░░
 <br>
 
 ### Frameworks
-<img align="left" alt="Vue" width="26px" src="./icons/vue.png" />
-<img align="left" alt="Express" width="34px" src="./icons/express.png" />
 <img align="left" alt="Firebase" width="26px" src="./icons/firebase.png" />
-<img align="left" alt="Node.js" width="26px" src="./icons/nodejs.png" />
 <br>
 
 ### Tools
