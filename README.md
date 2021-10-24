@@ -35,7 +35,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 <img align="left" alt="Terminal" width="26px" src="./Icons/terminal.png" />
 <img align="left" alt="JSON" width="26px" src="./Icons/json.png" />
 <img align="left" alt="Bootstrap" width="26px" src="./Icons/bootstrap.png" />
-<img align="left" alt="Linux" width="26px" src="./Icons/linux.png" />
+<img align="left" alt="Linux" width="50px" src="./Icons/linux2.png" />
 
 
 <br>
