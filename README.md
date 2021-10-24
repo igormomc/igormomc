@@ -1,6 +1,6 @@
-# Hi, I'm Igor 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lukamo1996.visitor-badge)
+# Hi, I'm Igor 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=igormomc.visitor-badge)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luka-momcilovic-835b37194/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-momcilovic-b61b85207/)
 
 Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/program/informatikk-programmering/) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
 
