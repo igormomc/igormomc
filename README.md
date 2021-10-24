@@ -17,11 +17,11 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 </p>
 
 ### Languages
-<img align="left" alt="Python" width="26px" src="./icons/python.png" />
-<img align="left" alt="JavaScript" width="26px" src="./icons/javascript.png" />
-<img align="left" alt="Java" width="20px" src="./icons/java.png" />
-<img align="left" alt="HTML5" width="26px" src="./icons/html.png" />
-<img align="left" alt="CSS3" width="26px" src="./icons/css.png" />
+<img align="left" alt="Python" width="26px" src="./Icons/python.png" />
+<img align="left" alt="JavaScript" width="26px" src="./Icons/javascript.png" />
+<img align="left" alt="Java" width="20px" src="./Icons/java.png" />
+<img align="left" alt="HTML5" width="26px" src="./Icons/html.png" />
+<img align="left" alt="CSS3" width="26px" src="./Icons/css.png" />
 <br>
 
 ### Frameworks
@@ -31,11 +31,11 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 ### Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Wordpress" width="26px" src="./icons/wordpress.png" />
-<img align="left" alt="Terminal" width="26px" src="./icons/cli.png" />
-<img align="left" alt="JSON" width="26px" src="./icons/json.png" />
-<img align="left" alt="Bootstrap" width="26px" src="./icons/bootstrap.png" />
-<img align="left" alt="Linux" width="26px" src="./icons/Linux.png" />
+<img align="left" alt="Wordpress" width="26px" src="./Icons/wordpress.png" />
+<img align="left" alt="Terminal" width="26px" src="./Icons/cli.png" />
+<img align="left" alt="JSON" width="26px" src="./Icons/json.png" />
+<img align="left" alt="Bootstrap" width="26px" src="./Icons/bootstrap.png" />
+<img align="left" alt="Linux" width="26px" src="./Icons/Linux.png" />
 
 
 <br>
