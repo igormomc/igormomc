@@ -4,9 +4,9 @@
 
 Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/program/informatikk-programmering/) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
 
-- ⛏ I’m currently working in an IT/Real-estate  firm. 
-- 💡 I’m currently learning PostgreSQL and trying to be better at solving codeing problems on codewars and kattis
-- 🎨 Hobbies: 🎾 & 🏋️ & 🍔 
+- ⛏  I’m currently working in an IT/Real-estate  firm. 
+- 💡  I’m currently learning PostgreSQL and trying to be better at solving codeing problems on codewars and kattis
+- 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
 ### Automate stuff  ==  HappyLife 😎
 
 ---
