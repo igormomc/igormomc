@@ -7,7 +7,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 - ⛏  I’m currently working in an IT/Real-estate  firm. 
 - 💡  I’m currently learning PostgreSQL and improving my solving skills at codewars and kattis in python + Machine Learning
 - 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
-###### Coding since 2010.
+###### Coding since 2016.
 
 ### Automate stuff  ==  HappyLife 😎
 
