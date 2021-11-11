@@ -25,6 +25,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 ### Languages
 <img align="left" alt="Python" width="26px" src="./Icons/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="./Icons/javascript.png" />
+<img align="left" alt="Vue" width="26px" src="./Icons/vue.png" />
 <img align="left" alt="Java" width="20px" src="./Icons/java.png" />
 <img align="left" alt="HTML5" width="26px" src="./Icons/html.png" />
 <img align="left" alt="CSS3" width="26px" src="./Icons/css.png" />
