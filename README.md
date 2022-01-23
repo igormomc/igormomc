@@ -6,7 +6,9 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 
 - ⛏  I’m currently working in an IT/Real-estate  firm. 
 - 💡  I’m currently learning:
-  - PostgreSQL
+  - C
+  - OS
+  - React
   - Improving my solving skills at codewars and kattis in python
   - Machine Learning
   - Algorithms
