@@ -9,6 +9,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
   - C
   - OS
   - React
+  - TypeScript
   - Improving my solving skills at codewars and kattis in python
   - Machine Learning
   - Algorithms
