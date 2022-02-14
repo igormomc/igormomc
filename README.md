@@ -11,7 +11,6 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
   - React
   - TypeScript
   - Improving my solving skills at codewars and kattis in python
-  - Machine Learning
   - Algorithms
 - 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
 ###### Coding since 2016.
