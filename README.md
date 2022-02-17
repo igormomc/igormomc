@@ -6,12 +6,13 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 
 - ⛏  I’m currently working in an IT/Real-estate  firm. 
 - 💡  I’m currently learning:
-  - C
-  - OS
   - React
   - TypeScript
-  - Improving my solving skills at codewars and kattis in python
+  - C
+  - OS
+  - Kotlin
   - Algorithms
+  - Improving my solving skills at codewars and kattis in python
 - 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
 ###### Coding since 2016.
 
