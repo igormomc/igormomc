@@ -1,4 +1,4 @@
-# Hi, I'm Igor 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=igormomc.visitor-badge)
+# Hi, I'm Igor 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=igormomc)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-momcilovic-b61b85207/)
 
