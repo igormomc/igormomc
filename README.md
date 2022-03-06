@@ -30,6 +30,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 
 <!--START_SECTION:waka-->
 
+
 <!--END_SECTION:waka-->
 
 ### Languages
@@ -39,6 +40,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 <img align="left" alt="Java" width="20px" src="./Icons/java.png" />
 <img align="left" alt="HTML5" width="26px" src="./Icons/html.png" />
 <img align="left" alt="CSS3" width="26px" src="./Icons/css.png" />
+
 <br>
 
 ### Frameworks
