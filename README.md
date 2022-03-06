@@ -28,6 +28,15 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igormomc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
+<!--START_SECTION:waka-->
+
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
+<!--END_SECTION:waka-->
+
 ### Languages
 <img align="left" alt="Python" width="26px" src="./Icons/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="./Icons/javascript.png" />
@@ -49,6 +58,5 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 <img align="left" alt="JSON" width="26px" src="./Icons/json.png" />
 <img align="left" alt="Bootstrap" width="26px" src="./Icons/bootstrap.png" />
 <img align="left" alt="Linux" width="26px" src="./Icons/linux2.jpeg" />
-
 
 <br>
