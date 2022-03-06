@@ -4,6 +4,9 @@
 
 Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/program/informatikk-programmering/) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
 
+<img align="right" alt="" src="" width="408" height="318" />
+
+
 - ⛏  I’m currently working in an IT/Real-estate  firm. 
 - 💡  I’m currently learning:
   - React
