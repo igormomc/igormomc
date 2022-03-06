@@ -30,11 +30,6 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 
 <!--START_SECTION:waka-->
 
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-
 <!--END_SECTION:waka-->
 
 ### Languages
