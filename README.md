@@ -7,7 +7,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 <img align="right" alt="GIF" src="./Icons/gifStudy" width="408" height="318" />
 
 
-- ⛏  I’m currently working in an IT/Real-estate  firm. 
+- ⛏  I’m currently working as a React Developer in Oslo. 
 - 💡  I’m currently learning:
   - React
   - TypeScript
