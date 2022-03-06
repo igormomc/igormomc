@@ -29,8 +29,6 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 </p>
 
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
 
 ### Languages
