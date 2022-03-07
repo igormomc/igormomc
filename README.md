@@ -1,7 +1,11 @@
 # Hi, I'm Igor 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=igormomc.igormomc)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-momcilovic-b61b85207/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-momcilovic-b61b85207/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/1gormomc1lov1c/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:igormomc@hotmail.com)
+
+
 
 Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/program/informatikk-programmering/) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
 
