@@ -31,7 +31,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
