@@ -24,8 +24,27 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 - 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
 ###### Coding since 2016.
 
-### Automate stuff  ==  HappyLife 😎
-
+## Who am I?
+ ```python
+  class WhoAmI:
+      def __init__(self):
+          user = 'Igor Momcilovic'
+          user_age = 22
+          current_edu = "University of Oslo's Department of Informatics"
+          hobbies = [
+              'Tennis',
+              'Traveling',
+              'Food'
+              'Being up all Night chasing that ONE BUG...'
+            ]
+	
+	def getCity():
+		return Oslo_Norway()
+	
+	def languageSpoken():
+		self.language_spoken = ["no_NOR", "en_USA", "sr_SRB"]
+ ```
+ 
 ---
 
 📈 **My GitHub Stats:**
@@ -41,6 +60,7 @@ TypeScript   2 mins          █████████████████
 
 <!--END_SECTION:waka-->
 
+---
 
 ### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
