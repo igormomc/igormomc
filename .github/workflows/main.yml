@@ -1,10 +1,12 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch:
+  schedule:
+    # Runs at every 12AM UTC
+    - cron: "0 0 * * *"
   push:
     branches: [main]
-  schedule:
-    - cron: "1 0 * * *"
 
 
 jobs:
