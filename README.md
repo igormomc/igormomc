@@ -31,6 +31,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
           user = 'Igor Momcilovic'
           user_age = 22
           current_edu = "University of Oslo's Department of Informatics"
+          current_job = "Junior Software engineer"
           hobbies = [
               'Tennis',
               'Traveling',
