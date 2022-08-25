@@ -22,6 +22,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
   - Algorithms
   - Improving my solving skills at codewars and kattis in Python
 - 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
+- Personal Webiste: <a href="https://www.igormomc.com/" target="_blank">igormomc.com</a>
 ###### Coding since 2017.
 
 ## Who am I?
