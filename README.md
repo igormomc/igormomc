@@ -58,12 +58,12 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 <!--START_SECTION:waka-->
 
 ```text
-Java         9 hrs 50 mins   █████████████▒░░░░░░░░░░░   53.51 %
-TypeScript   2 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Text         2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-Scheme       1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-ASP.NET      1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Java         10 hrs 32 mins  ███████████▓░░░░░░░░░░░░░   46.44 %
+Python       4 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+Scheme       2 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+TypeScript   1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+ASP.NET      1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Text         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 <!--END_SECTION:waka-->
