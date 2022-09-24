@@ -58,9 +58,8 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 2 mins   ███████████████████░░░░░░   75.58 %
-TOML         1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Other        40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+TypeScript   10 hrs 4 mins   █████████████████▒░░░░░░░   69.07 %
+Other        1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
 ```
 
 <!--END_SECTION:waka-->
