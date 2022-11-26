@@ -58,12 +58,7 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 <!--START_SECTION:waka-->
 
 ```text
-Scheme           5 hrs 50 mins   ████████████████████████░   95.96 %
-GitIgnore file   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-C                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Scheme   3 hrs 3 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
