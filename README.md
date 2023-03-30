@@ -58,12 +58,12 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       10 hrs 33 mins  ██████████████▓░░░░░░░░░░   59.03 %
-C                2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-HTML             1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Python           1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-ObjectiveC       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Assembly         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+TypeScript       11 hrs 19 mins  ████████████████░░░░░░░░░   64.50 %
+C                1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Python           1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+ObjectiveC       56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Assembly         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+JSON             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
