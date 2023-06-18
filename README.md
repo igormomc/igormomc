@@ -58,11 +58,11 @@ Hi! My name is Igor and I'm [Computer Science](https://www.uio.no/studier/progra
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       7 hrs 7 mins    ███████████████▓░░░░░░░░░   62.92 %
-Vue.js           2 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-JSON             56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-JavaScript       23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Prisma           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+TypeScript       10 hrs 57 mins  ██████████████████░░░░░░░   71.54 %
+Vue.js           2 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+JSON             1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+JavaScript       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Prisma           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
