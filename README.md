@@ -58,11 +58,11 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          11 hrs 2 mins   ██████████████████░░░░░░░   72.21 %
-JavaScript          2 hrs 38 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-Text                45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-JSON                17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-CSS                 17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+TypeScript          13 hrs 20 mins  █████████████████████▓░░░   87.28 %
+JavaScript          49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+JSON                37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+CSS                 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+.env file           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
