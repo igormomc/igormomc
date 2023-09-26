@@ -30,9 +30,9 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
   class WhoAmI:
       def __init__(self):
           user = 'Igor Momcilovic'
-          user_age = 22
+          user_age = 23
           current_edu = "University of Oslo's Department of Informatics"
-          current_job = "Junior Software engineer"
+          current_job = "Software engineer"
           hobbies = [
               'Tennis',
               'Traveling',
