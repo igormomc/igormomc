@@ -49,11 +49,6 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
  
 ---
 
-📈 **My GitHub Stats:**
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igormomc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
-
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
