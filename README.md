@@ -62,6 +62,20 @@ JavaScript       31 mins         ▓░░░░░░░░░░░░░░�
 
 ---
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,c,go,docker,firebase,github,css,html,js,ts,react,vue,java,kotlin,linux,mongodb,mysql,nextjs,nodejs,postman,py,redux,tailwind & perline=11" />
+  </a>
+</p>
+
+<!-- OLD!
 ### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -91,3 +105,4 @@ JavaScript       31 mins         ▓░░░░░░░░░░░░░░�
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
 <br>
+-->
