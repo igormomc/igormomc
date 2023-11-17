@@ -13,14 +13,14 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
 
 
 - ⛏  I’m currently working as a React(Full-Stack) Developer in Oslo, Norway. 
-- 💡  I’m currently learning:
+- 💡  I’m currently Doing:
   - Ethical hacking
-  - Improving TypeScript & Node at my job
-  - C
+  - Improving React/TypeScript & Node at my job
+  - Golang
   - OS
-  - Improving my solving skills at codewars and kattis in Python
+  - Improving my solving skills at leetcode in JS
 - 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
-- Personal Webiste: <a href="https://www.igormomc.com/" target="_blank">igormomc.com</a>
+- Personal Website: <a href="https://www.igormomc.com/" target="_blank">igormomc.com</a>
 ###### Coding since 2017.
 
 ## Who am I?
