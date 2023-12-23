@@ -18,7 +18,7 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
   - Improving React/TypeScript & Node at my job
   - Golang
   - OS
-  - Improving my solving skills at leetcode in JS
+  - Improving my solving skills at leetcode in JS and Golang
 - 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
 - Personal Website: <a href="https://www.igormomc.com/" target="_blank">igormomc.com</a>
 ###### Coding since 2017.
@@ -35,6 +35,7 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
               'Tennis',
               'Traveling',
               'Food'
+	      'Learning nvim'
               'Being up all Night chasing that ONE BUG...'
             ]
 	
