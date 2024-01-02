@@ -34,7 +34,7 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
           hobbies = [
               'Tennis',
               'Traveling',
-              'Food'
+              'Food',
 	      'Learning nvim'
               'Being up all Night chasing that ONE BUG...'
             ]
