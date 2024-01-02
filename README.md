@@ -35,7 +35,7 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
               'Tennis',
               'Traveling',
               'Food',
-	      'Learning nvim',
+	          'Nvim',
               'Being up all Night chasing that ONE BUG...'
             ]
 	
