@@ -28,7 +28,7 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
   class WhoAmI:
       def __init__(self):
           user = 'Igor Momcilovic'
-          user_age = 23
+          user_age = 24
           current_edu = "University of Oslo's Department of Informatics"
           current_job = "Software engineer"
           hobbies = [
@@ -64,6 +64,8 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 ---
 
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormomc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
+
+<!-- ![LeetCode Stats](https://leetcode.card.workers.dev/igormomc?theme=dark&font=&extension=null) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
