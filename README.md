@@ -17,8 +17,9 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
   - Ethical hacking
   - Improving React/TypeScript & Node at my job
   - Golang
+  - Swift
   - OS
-  - Improving my solving skills at leetcode in JS and Golang
+  - Improving my solving skills at Leetcode in JS and Golang
 - 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
 - Personal Website: <a href="https://www.igormomc.com/" target="_blank">igormomc.com</a>
 ###### Coding since 2017.
