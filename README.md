@@ -12,10 +12,10 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
 <img align="right" alt="GIF" src="./Icons/gifStudy" width="408" height="318" />
 
 
-- ⛏  I’m currently working as a React(Full-Stack) Developer in Oslo, Norway. 
+- ⛏  I’m currently working as a Full-Stack Developer in Oslo, Norway. 
 - 💡  I’m currently Doing:
   - Ethical hacking
-  - Improving React/TypeScript & Node at my job
+  - Improving React/TypeScript & Java/Spring Boot at my job
   - Golang
   - Swift
   - OS
