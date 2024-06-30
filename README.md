@@ -53,11 +53,11 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
 <!--START_SECTION:waka-->
 
 ```txt
-XML               12 mins         ███████████████▒░░░░░░░░░   61.40 %
-Java Properties   3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.66 %
-YAML              2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Batchfile         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Groovy            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+XML               11 mins         █████████████████████▒░░░   85.48 %
+Java Properties   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
