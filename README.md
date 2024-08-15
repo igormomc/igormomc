@@ -7,14 +7,14 @@
 
 
 
-Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier/program/informatikk-programmering-master/index.html) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/).
+Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier/program/informatikk-programmering-master/index.html) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). When I'm not buried in my studies, I'm a Developer at Kahoot! in Oslo, Norway. 
 
 <img align="right" alt="GIF" src="./Icons/gifStudy" width="408" height="318" />
 
 
 - ⛏  I’m currently working as a Full-Stack Developer in Oslo, Norway. 
 - 💡  I’m currently Doing:
-  - Ethical hacking
+  - Mastering Ethical Hacking😎
   - Improving React/TypeScript & Java/Spring Boot at my job
   - Golang
   - Swift
@@ -31,7 +31,7 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
           user = 'Igor Momcilovic'
           user_age = 24
           current_edu = "University of Oslo's Department of Informatics"
-          current_job = "Software engineer"
+          current_job = "Software Engineer @ Kahoot!"
           hobbies = [
               'Tennis',
               'Traveling',
