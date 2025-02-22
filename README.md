@@ -53,8 +53,8 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     23 mins         ██████████████▒░░░░░░░░░░   56.95 %
-Python   17 mins         ██████████▓░░░░░░░░░░░░░░   43.05 %
+Python   16 mins         ████████████████████▒░░░░   81.81 %
+JSON     3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
 ```
 
 <!--END_SECTION:waka-->
