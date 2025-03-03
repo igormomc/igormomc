@@ -49,18 +49,6 @@ Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier
  
 ---
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-Python   6 mins          ███████████████████████░░   92.15 %
-JSON     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormomc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
 
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/igormomc?theme=dark&font=&extension=null) -->
