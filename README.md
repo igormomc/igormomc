@@ -5,9 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/1gormomc1lov1c/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:igormomc@hotmail.com)
 
-
-
-Hi! My name is Igor and I'm [Computer Science Master](https://www.uio.no/studier/program/informatikk-programmering-master/index.html) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). When I'm not buried in my studies, I'm a Developer at Kahoot! in Oslo, Norway. 
+Hi! I’m Igor, a [Computer Science Master’s](https://www.uio.no/studier/program/informatikk-programmering-master/index.html) graduate (CS) from the University of Oslo’s [Department of Informatics](https://www.mn.uio.no/ifi/english/).  I currently work as a Developer at Kahoot! in Oslo, Norway.
 
 <img align="right" alt="GIF" src="./Icons/gifStudy" width="408" height="318" />
 
