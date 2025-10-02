@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/1gormomc1lov1c/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:igormomc@hotmail.com)
 
-Hi! I’m Igor, a [Computer Science Master’s](https://www.uio.no/studier/program/informatikk-programmering-master/index.html) graduate (CS) from the University of Oslo’s [Department of Informatics](https://www.mn.uio.no/ifi/english/).  I currently work as a Developer at Kahoot! in Oslo, Norway.
+Hi! I’m Igor, a [Computer Science Master’s](https://www.uio.no/studier/program/informatikk-programmering-master/index.html) graduate (CS) from the University of Oslo’s [Department of Informatics](https://www.mn.uio.no/ifi/english/).  I currently work as a Backend Developer at Kahoot! in Oslo, Norway.
 
 <img align="right" alt="GIF" src="./Icons/gifStudy" width="408" height="318" />
 
@@ -13,11 +13,11 @@ Hi! I’m Igor, a [Computer Science Master’s](https://www.uio.no/studier/progr
 - ⛏  I’m currently working as a Full-Stack Developer in Oslo, Norway. 
 - 💡  I’m currently Doing:
   - Mastering Ethical Hacking😎
-  - Improving React/TypeScript & Java/Spring Boot at my job
+  - Improving Java/Spring Boot at my job
   - Golang
   - Swift
   - OS
-  - Improving my solving skills at Leetcode in JS and Golang
+  - Improving my solving skills at Leetcode
 - 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
 - Personal Website: <a href="https://netlify-igor.netlify.app/" target="_blank">igormomc.com</a>
 ###### Coding since 2017.
@@ -28,14 +28,13 @@ Hi! I’m Igor, a [Computer Science Master’s](https://www.uio.no/studier/progr
       def __init__(self):
           user = 'Igor Momcilovic'
           user_age = 25
-          current_edu = "University of Oslo's Department of Informatics"
+          finished_edu = "University of Oslo's Department of Informatics"
           current_job = "Software Engineer @ Kahoot!"
           hobbies = [
               'Tennis',
               'Traveling',
-              'Food',
+              'golf',
 	          'Nvim',
-              'Being up all Night chasing that ONE BUG...'
             ]
 	
 	def getCity():
