@@ -54,7 +54,7 @@ Hi! I’m Igor, a [Computer Science Master’s](https://www.uio.no/studier/progr
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,c,go,docker,firebase,github,css,html,js,ts,react,vue,java,kotlin,linux,mongodb,mysql,nextjs,nodejs,postman,py,redux,tailwind&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,aws,c,go,docker,firebase,github,css,html,js,ts,react,vue,java,kotlin,linux,mongodb,mysql,nextjs,nodejs,postman,py,redux,elixir,tailwind&perline=11" />
   </a>
 </p>
 
