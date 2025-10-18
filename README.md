@@ -10,14 +10,12 @@ Hi! I’m Igor, a [Computer Science Master’s](https://www.uio.no/studier/progr
 <img align="right" alt="GIF" src="./Icons/gifStudy" width="408" height="318" />
 
 
-- ⛏  I’m currently working as a Full-Stack Developer in Oslo, Norway. 
+- ⛏  I’m currently working as a Backend Developer in Oslo, Norway. 
 - 💡  I’m currently Doing:
   - Mastering Ethical Hacking😎
   - Improving Java/Spring Boot at my job
   - Golang
-  - Swift
-  - OS
-  - Improving my solving skills at Leetcode
+  - Elixir
 - 🎨  Hobbies: 🎾 & 🏋️ & 🍔 
 - Personal Website: <a href="https://netlify-igor.netlify.app/" target="_blank">igormomc.com</a>
 ###### Coding since 2017.
@@ -28,7 +26,7 @@ Hi! I’m Igor, a [Computer Science Master’s](https://www.uio.no/studier/progr
       def __init__(self):
           user = 'Igor Momcilovic'
           user_age = 25
-          finished_edu = "University of Oslo's Department of Informatics"
+          education = "University of Oslo's Department of Informatics"
           current_job = "Software Engineer @ Kahoot!"
           hobbies = [
               'Tennis',
